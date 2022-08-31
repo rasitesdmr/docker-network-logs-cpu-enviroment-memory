@@ -1,0 +1,1 @@
+PS C:\Users\mrasi> docker network connect alistirma-agi test1
